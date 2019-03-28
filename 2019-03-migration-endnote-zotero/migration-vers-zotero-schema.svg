@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- =========================== -->
+
 <!-- =========================== -->
+
 <!-- === Migration to Zotero === -->
+
 <!-- === Schema from EndNote === -->
+
 <!-- *************************** -->
+
 <!-- Auteur  : Raphaël Grolimund -->
+
 <!-- Date    : 2019-03-16        -->
+
 <!-- Contact : grolimur@nous4.ch -->
+
 <!-- Licence : CC BY 4.0         -->
+
 <!-- =========================== -->
+
 <!-- =========================== -->
 
 <svg
@@ -38,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
       </cc:Work>
@@ -72,7 +82,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="false"
      inkscape:zoom="0.6675088"
-     inkscape:cx="992.22965"
+     inkscape:cx="680.62327"
      inkscape:cy="510.45962"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -81,14 +91,14 @@
   <!-- steps -->
   <text
      x="100"
-     y="1700"
-     style="font-size: 60px; font-family:serif; font-weight:bold; text-anchor:start; fill:red;"
+     y="1608"
+     style="font-weight:bold;font-size:60px;font-family:serif;text-anchor:start;fill:#ff0000"
      id="text2"
      inkscape:export-xdpi="76"
      inkscape:export-ydpi="76">ETAPE 0</text>
   <text
      x="390"
-     y="1700"
+     y="1608"
      style="font-weight:bold;font-size:60px;font-family:serif;text-anchor:start;fill:#000000"
      id="text4"
      inkscape:export-xdpi="76"
@@ -194,9 +204,23 @@
      fill="none"
      stroke="#000"
      stroke-width="3"
-     id="path26"
+     id="path26a"
      inkscape:export-xdpi="76"
      inkscape:export-ydpi="76" />
+  <text
+     x="170"
+     y="1690"
+     style="font-size:40px;font-family:sans-serif;text-anchor:start;fill:#000000"
+     id="text28a"
+     inkscape:export-xdpi="76"
+     inkscape:export-ydpi="76">base EndNote sauvegardée ?</text>
+  <path
+     d="m 100,1660 a 10,10 0 0 1 10,-10 h 30 a 10,10 0 0 1 10,10 v 30 a 10,10 0 0 1 -10,10 h -30 a 10,10 0 0 1 -10,-10 z"
+     id="path26"
+     inkscape:export-xdpi="76"
+     inkscape:export-ydpi="76"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:3" />
   <text
      x="170"
      y="1790"
