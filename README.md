@@ -12,6 +12,10 @@ Les fichiers produits dans le cadre de la participation à des événements sont
 ## Billet Migration vers Zotero (mars 2019)
 * [Le billet](https://zotero.hypotheses.org/2766)
 * [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2019-03-migration-endnote-zotero)
+
+:clapper: ![Bande annonce en diaporama](https://github.com/zfrancophone/zfrancophone-blog/blob/master/2019-03-migration-endnote-zotero/bande_annonce_zotero_endnote/bande_annonce_zotero_endnote.pdf) : vous avez 10 minutes pour proposer l'organisation d'une formation Zotero à des utilisateurs d'EndNote (et/ou à des non utilisateurs d'un logiciel de gestion bibliographique)? Nous avons préparé cette présentation, conçue pour être illustrée d'une rapide démontration de Zotero en action à partir de votre bibliothèque Zotero.
+
+[Lien vers les fichiers source](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2019-03-migration-endnote-zotero/bande_annonce_zotero_endnote)
 * [Les ressources citées](https://www.zotero.org/groups/2233096/zfrancophone/items/tag/zfrancophone_migration)
 
 ## Billet Markdown et Zotero (novembre 2018)
