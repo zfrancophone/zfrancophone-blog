@@ -11,7 +11,7 @@ Les fichiers produits dans le cadre de la participation à des événements sont
 
 ## Billet ZotFile (septembre 2019)
 * [Le billet](https://zotero.hypotheses.org/2838)
-* [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2019-09-zotfile) : schéma "Etre ou ne pas être dans Zotero : quel choix pour vos PDF et autres fichiers joints?" - disponible au format .odg et .png
+* [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2019-09-zotfile) : schéma "Etre ou ne pas être dans Zotero : quel choix pour vos PDF et autres fichiers joints?" - disponible au format .odg et .pdf
 * [Les ressources citées](https://www.zotero.org/groups/2233096/zfrancophone/items/tag/zfrancophone_zotfile)
 
 ## Billet Migration vers Zotero (mars 2019)
