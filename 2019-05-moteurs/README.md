@@ -15,7 +15,7 @@
 
 [Fichier engines_CH-fr.json](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2019-05-moteurs/engines_CH-fr.json)
 
-Moteurs de recherche inclus :
+Moteurs de recherche inclus
 * ....
 * ......
 
@@ -23,14 +23,33 @@ Moteurs de recherche inclus :
 
 [Fichier engines_FR-shs.json](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2019-05-moteurs/engines_FR-shs.json)
 
-Moteurs de recherche inclus :
-* ....
-* ......
+Moteurs de recherche inclus
+
+* Crossref
+* Google Scholar
+* Google Scholar - Title Only
+* Google
+* SUDOC
+* SUDOC - auteur(s)/titre
+* SUDOC - auteur(s)/titre/ISBN
+* SUDOC - ISBN
+* BnF - Bibliothèque nationale de France
+* ISIDORE, aide-moi à trouver ce qu'il/elle a publié.
+* ISIDORE, qu'as-tu sur l'auteur/auteure ?
 
 ### France - Sciences de la vie
 
 [Fichier engines_FR-svs.json](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2019-05-moteurs/engines_FR-svs.json)
 
-Moteurs de recherche inclus :
-* ....
-* ......
+Moteurs de recherche inclus
+
+* Crossref
+* Google Scholar
+* Google Scholar - Title Only
+* Google
+* SUDOC
+* SUDOC - auteur(s)/titre
+* SUDOC - auteur(s)/titre/ISBN
+* SUDOC - ISBN
+* PubMed DOI
+* PubMed (title + author)
