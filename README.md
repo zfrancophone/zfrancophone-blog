@@ -11,7 +11,7 @@ Les fichiers produits dans le cadre de la participation à des événements sont
 
 ## Billet moteurs de recherche (mai 2020)
 * [Le billet](https://zotero.hypotheses.org/3388)
-* [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2019-05-moteurs)
+* [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2020-05-moteurs)
 * [Les ressources citées](https://www.zotero.org/groups/2233096/zfrancophone/tags/zfrancophone_moteurs/library)
 
 ## Billet ZotFile (septembre 2019)
