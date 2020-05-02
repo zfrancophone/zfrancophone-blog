@@ -16,8 +16,15 @@
 [Fichier engines_CH-fr.json](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2019-05-moteurs/engines_CH-fr.json)
 
 Moteurs de recherche inclus
-* ....
-* ......
+* CrossRef
+* Google scholar
+* RERO
+* Renouvaud
+* EPFL
+* Swissbib (ISBN)
+* PubMed (auteur-titre)
+* PubMed (DOI)
+* Unpaywall
 
 ### France - SHS
 
