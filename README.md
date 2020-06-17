@@ -9,6 +9,11 @@ Les resources citées dans les articles sont disponibles dans notre [bibliothèq
 
 Les fichiers produits dans le cadre de la participation à des événements sont disponibles dans [l'entrepôt zfrancophone-evenements](https://github.com/zfrancophone/zfrancophone-evenements).
 
+## Billet bulletin de veille n°2 (juin 2020)
+* [Le billet](https://zotero.hypotheses.org/3434)
+* [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2020-06-bulletin-veille-02)
+* [Les ressources citées](https://www.zotero.org/groups/2233096/zfrancophone/collections/4WJY9TTS)
+
 ## Billet moteurs de recherche (mai 2020)
 * [Le billet](https://zotero.hypotheses.org/3388)
 * [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2020-05-moteurs)
