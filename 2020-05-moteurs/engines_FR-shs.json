@@ -56,16 +56,20 @@
 		},
 		"_iconSourceURI": "https://www.google.com/favicon.ico"
 	},
-  {		"_name": "SUDOC",
-  		"_alias": "SUDOC",
-  		"_description": "Rechercher dans le SUDOC",
-  		"_icon": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico",
-  		"_hidden": false,
-  		"_urlTemplate": "http://www.sudoc.abes.fr/cbs//DB=2.1/SET=2/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=RLV&TRM={z:title}+{rft:aufirst?}+{rft:aulast?}",
-  		"_urlParams": [],
-  		"_urlNamespaces": {"rft": "info:ofi/fmt:kev:mtx:book", "z": "http://www.zotero.org/namespaces/openSearch#",	"": "http://a9.com/-/spec/opensearch/1.1/"},
-  		"_iconSourceURI": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico"},
-
+  {
+    "_name": "SUDOC",
+    "_alias": "SUDOC",
+    "_urlTemplate": "http://www.sudoc.abes.fr/cbs//DB=2.1/SET=2/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=RLV&TRM={z:title}+{rft:aufirst?}+{rft:aulast?}",
+    "_description": "Search SUDOC",
+    "_urlParams": [],
+    "_hidden": false,
+    "_icon": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico",
+    "_urlNamespaces": {
+	"rft": "info:ofi/fmt:kev:mtx:journal",
+	"z": "http://www.zotero.org/namespaces/openSearch#",
+	"": "http://a9.com/-/spec/opensearch/1.1/"
+    }
+},
   {		"_name": "SUDOC - auteur(s)/titre",
   		"_alias": "SUDOC - auteur(s)/titre",
   		"_description": "Rechercher dans le SUDOC",
@@ -96,18 +100,18 @@
   		"_urlNamespaces": {"rft": "info:ofi/fmt:kev:mtx:book", "z": "http://www.zotero.org/namespaces/openSearch#",	"": "http://a9.com/-/spec/opensearch/1.1/"},
   		"_iconSourceURI": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico"},
 
-{		"_name": "BnF - Bibliothèque nationale de France",
-      		"_alias": "BnF",
-      		"_country": "FR",
-      		"_urlTemplate": "https://catalogue.bnf.fr/search.do?mots0=NRI;-1;0;{rft:aufirst?}+{rft:aulast?}&mots1=TIT;0;0;{z:title}&mots2=NRC;1;0;{z:ISBN?}&&pageRech=rav",
-      		"_description": "Recherche dans le catalogue de la BnF",
-      		"_urlParams": [],
-      		"_hidden": false,
-      		"_icon": "https://catalogue.bnf.fr/images/icones/icone_CG.png",
-      		"_urlNamespaces": {
-      		"rft": "info:ofi/fmt:kev:mtx:journal",
-      		"z": "http://www.zotero.org/namespaces/openSearch#",
-      		"": "http://a9.com/-/spec/opensearch/1.1/"}    },
+{
+    "_name": "BnF - Bibliothèque nationale de France",
+    "_alias": "BnF - Bibliothèque nationale de France",
+    "_urlTemplate": "https://catalogue.bnf.fr/search.do?mots0=NRI;-1;0;{rft:aufirst?}+{rft:aulast?}&mots1=TIT;0;0;{z:title}&mots2=NRC;1;0;{z:ISBN?}&&pageRech=rav",
+    "_description": "Recherche dans le catalogue de la BnF",
+    "_urlParams": [],
+    "_hidden": false,"_urlNamespaces": {
+	"rft": "info:ofi/fmt:kev:mtx:journal",
+	"z": "http://www.zotero.org/namespaces/openSearch#",
+	"": "http://a9.com/-/spec/opensearch/1.1/"
+    }
+},
 {
 	"name": "ISIDORE, aide-moi à trouver ce qu'il/elle a publié.",
         		"alias": "ISIDORE",
