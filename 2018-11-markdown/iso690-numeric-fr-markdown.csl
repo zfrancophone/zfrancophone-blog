@@ -145,7 +145,7 @@
         </choose>
       </else-if>
       <else-if type="report">
-        <text variable="number" suffix=": "/>
+        <text variable="number" suffix="&#160;: "/>
         <text variable="title" prefix="*" suffix="*"/>
       </else-if>
       <else-if type="patent">
