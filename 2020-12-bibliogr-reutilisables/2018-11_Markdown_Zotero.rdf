@@ -1,0 +1,515 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="http://archiveweb.epfl.ch/flashinformatique.epfl.ch/spip.php%3Farticle2658.html">
+        <z:itemType>magazineArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Periodical>
+                <prism:number>4</prism:number>
+                <dc:title>Flash Informatique</dc:title>
+            </bib:Periodical>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonjour</foaf:surname>
+                        <foaf:givenName>Jean-Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://archiveweb.epfl.ch/flashinformatique.epfl.ch/spip.php%3Farticle2658.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>3-8</bib:pages>
+        <dc:date>06/07/2013</dc:date>
+        <dcterms:dateSubmitted>2018-10-01 12:09:13</dcterms:dateSubmitted>
+        <dc:title>Création et conversion de documents avec Pandoc</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="http://archiveweb.epfl.ch/flashinformatique.epfl.ch/spip.php%3Farticle2629.html">
+        <z:itemType>magazineArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Periodical>
+                <prism:number>1</prism:number>
+                <dc:title>Flash Informatique</dc:title>
+            </bib:Periodical>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Borboën</foaf:surname>
+                        <foaf:givenName>Nicolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://archiveweb.epfl.ch/flashinformatique.epfl.ch/spip.php%3Farticle2629.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>5-8</bib:pages>
+        <dc:date>2013</dc:date>
+        <dcterms:dateSubmitted>2018-10-01 12:09:13</dcterms:dateSubmitted>
+        <dc:title>Markdown</dc:title>
+    </bib:Article>
+    <bib:Document rdf:about="https://guides.github.com/features/mastering-markdown/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>GitHub Guides</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>GitHub</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://guides.github.com/features/mastering-markdown/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2014</dc:date>
+        <dcterms:dateSubmitted>2018-10-01 12:07:11</dcterms:dateSubmitted>
+        <dc:title>Mastering Markdown</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://daringfireball.net/projects/markdown/syntax">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Daring Fireball</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gruber</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://daringfireball.net/projects/markdown/syntax</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2004</dc:date>
+        <dcterms:dateSubmitted>2018-10-01 12:05:24</dcterms:dateSubmitted>
+        <dc:title>Syntax Documentation</dc:title>
+    </bib:Document>
+    <rdf:Description rdf:about="http://pandoc.org/MANUAL.html">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>MacFarlane</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://pandoc.org/MANUAL.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018</dc:date>
+        <dc:title>Pandoc User’s Guide</dc:title>
+    </rdf:Description>
+    <bib:Article rdf:about="http://dx.plos.org/10.1371/journal.pone.0033339">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1932-6203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wallace</foaf:surname>
+                        <foaf:givenName>Matthew L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Larivière</foaf:surname>
+                        <foaf:givenName>Vincent</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gingras</foaf:surname>
+                        <foaf:givenName>Yves</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Holme</foaf:surname>
+                        <foaf:givenName>Petter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://dx.plos.org/10.1371/journal.pone.0033339</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>e33339</bib:pages>
+        <dc:date>2012-3-7</dc:date>
+        <dcterms:dateSubmitted>2018-10-01 12:12:39</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>A Small World of Citations? The Influence of Collaboration Networks on Citation Practices</dc:title>
+        <z:shortTitle>A Small World of Citations?</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1932-6203">
+        <prism:volume>7</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>PLoS ONE</dc:title>
+        <dc:identifier>ISSN 1932-6203</dc:identifier>
+        <dc:identifier>DOI 10.1371/journal.pone.0033339</dc:identifier>
+    </bib:Journal>
+    <bib:Document rdf:about="https://github.com/KurtPfeifle/pandoc-csl-testing">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>KurtPfeifle [GitHub]</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pfeifle</foaf:surname>
+                        <foaf:givenName>Kurt</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/KurtPfeifle/pandoc-csl-testing</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>CC0-1.0</dc:rights>
+        <dc:date>2017-11-09T13:33:01Z</dc:date>
+        <dcterms:dateSubmitted>2017-12-18 08:25:46</dcterms:dateSubmitted>
+        <dc:title>pandoc-csl-testing: Scripts and Howtos about using different CSL (Citation Style Language) files with pandoc</dc:title>
+        <z:shortTitle>pandoc-csl-testing</z:shortTitle>
+    </bib:Document>
+    <bib:Document rdf:about="http://raphaelkabo.com/blog/posts/markdown-to-word">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Raphael Kabo</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kabo</foaf:surname>
+                        <foaf:givenName>Raphael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://raphaelkabo.com/blog/posts/markdown-to-word</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>11/05/2017</dc:date>
+        <dcterms:dateSubmitted>2017-10-23 08:27:06</dcterms:dateSubmitted>
+        <dc:title>My workflow for transforming academic Markdown into beautiful Word documents</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://eriac.hypotheses.org/80">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>L'Atelier des Savoirs</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dehut</foaf:surname>
+                        <foaf:givenName>Julien</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://eriac.hypotheses.org/80</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>23/01/2018</dc:date>
+        <dcterms:dateSubmitted>2018-05-28 10:44:46</dcterms:dateSubmitted>
+        <z:language>fr-FR</z:language>
+        <dcterms:abstract>Le titre de ce billet aurait pu être formé autour d’une expression célèbre attribuée à Caton l’ancien : delenda carthago[1], il faut détruire Carthage. Citation dont on trouve notamment un écho chez Plutarque[2] qui relate...</dcterms:abstract>
+        <dc:title>En finir avec Word ! Pour une analyse des enjeux relatifs aux traitements de texte et à leur utilisation</dc:title>
+    </bib:Document>
+    <bib:Article rdf:about="https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Programming Historian</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tenen</foaf:surname>
+                        <foaf:givenName>Dennis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wythoff</foaf:surname>
+                        <foaf:givenName>Grant</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2014-03-19</dc:date>
+        <dcterms:dateSubmitted>2017-10-17 09:38:01</dcterms:dateSubmitted>
+        <z:libraryCatalog>programminghistorian.org</z:libraryCatalog>
+        <dc:title>Sustainable Authorship in Plain Text using Pandoc and Markdown</dc:title>
+    </bib:Article>
+    <bib:Document rdf:about="http://commonmark.org/help/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>CommonMark</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>CommonMark</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://commonmark.org/help/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-06-22 06:49:52</dcterms:dateSubmitted>
+        <dc:title>Markdown Reference - Help</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://jez.io/talks/writing-at-the-command-line/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Jake Zimmerman</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zimmerman</foaf:surname>
+                        <foaf:givenName>Jake</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://jez.io/talks/writing-at-the-command-line/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>19/11/2016</dc:date>
+        <dc:title>Writing at the Command Line</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.laspic.eu/compiler-et-mettre-en-forme-un-document-markdown-en-pdf">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>laspic</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chibois</foaf:surname>
+                        <foaf:givenName>Jonathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.laspic.eu/compiler-et-mettre-en-forme-un-document-markdown-en-pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>26/02/2018</dc:date>
+        <dcterms:dateSubmitted>2018-09-17 09:15:35</dcterms:dateSubmitted>
+        <dc:title>Mettre en forme un document Markdown en PDF</dc:title>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:978-2-10-076636-9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Malakoff, France</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Dunod</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cordeau</foaf:surname>
+                        <foaf:givenName>Bob</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pointal</foaf:surname>
+                        <foaf:givenName>Laurent</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Swinnen</foaf:surname>
+                        <foaf:givenName>Gérard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>ISBN 978-2-10-076636-9</dc:identifier>
+        <dc:date>2017</dc:date>
+        <z:libraryCatalog>Library Catalog - www.sudoc.abes.fr</z:libraryCatalog>
+        <z:language>fr</z:language>
+        <dc:title>Python 3: apprendre à programmer en Python avec Pyzo et Jupyter Notebook</dc:title>
+        <z:shortTitle>Python 3</z:shortTitle>
+        <z:numPages>xv+236</z:numPages>
+    </bib:Book>
+    <bib:Document rdf:about="https://infologie.hypotheses.org/516">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Infologie</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perret</foaf:surname>
+                        <foaf:givenName>Arthur</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://infologie.hypotheses.org/516</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-05 07:25:29</dcterms:dateSubmitted>
+        <z:type>Billet</z:type>
+        <z:language>fr-FR</z:language>
+        <dcterms:abstract>Ce texte creuse le sillon amorcé dans un précédent billet sur les questions d’écriture scientifique. Il s’agit cette fois-ci de s’intéresser à la forme, en montrant combien il est délicat de la dissocier des...</dcterms:abstract>
+        <dc:title>Sémantique et mise en forme : ouvrir la boîte de Pandoc ?</dc:title>
+        <z:shortTitle>Sémantique et mise en forme</z:shortTitle>
+    </bib:Document>
+    <bib:Document rdf:about="https://habr.com/en/post/443798/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kashnitsky</foaf:surname>
+                        <foaf:givenName>Ilya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://habr.com/en/post/443798/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2019/03/15</dc:date>
+        <dcterms:dateSubmitted>2019-03-21 07:01:45</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Here is a bit refreshed translation of my 2015 blog post. The post shows how to organize a personal academic library of unlimited size for free. This is a funny...</dcterms:abstract>
+        <dc:title>Zotero hacks: unlimited synced storage and its smooth use with rmarkdown</dc:title>
+        <z:shortTitle>Zotero hacks</z:shortTitle>
+    </bib:Document>
+    <bib:Document rdf:about="https://arthurperret.fr/2019/04/12/wordless/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Arthur Perret</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perret</foaf:surname>
+                        <foaf:givenName>Arthur</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>zfrancophone_markdown</dc:subject>
+        <dc:subject>#nosource</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arthurperret.fr/2019/04/12/wordless/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>12/04/2019</dc:date>
+        <dc:title>Wordless</dc:title>
+    </bib:Document>
+</rdf:RDF>

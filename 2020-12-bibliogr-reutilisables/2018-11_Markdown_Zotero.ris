@@ -1,0 +1,230 @@
+TY  - MGZN
+TI  - Création et conversion de documents avec Pandoc
+AU  - Bonjour, Jean-Daniel
+T2  - Flash Informatique
+DA  - 2013/07/06/
+PY  - 2013
+IS  - 4
+SP  - 3
+EP  - 8
+UR  - http://archiveweb.epfl.ch/flashinformatique.epfl.ch/spip.php%3Farticle2658.html
+Y2  - 2018/10/01/12:09:13
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - MGZN
+TI  - Markdown
+AU  - Borboën, Nicolas
+T2  - Flash Informatique
+DA  - 2013///
+PY  - 2013
+IS  - 1
+SP  - 5
+EP  - 8
+UR  - http://archiveweb.epfl.ch/flashinformatique.epfl.ch/spip.php%3Farticle2629.html
+Y2  - 2018/10/01/12:09:13
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - ELEC
+TI  - Mastering Markdown
+AU  - GitHub
+T2  - GitHub Guides
+DA  - 2014///
+PY  - 2014
+UR  - https://guides.github.com/features/mastering-markdown/
+Y2  - 2018/10/01/12:07:11
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - ELEC
+TI  - Syntax Documentation
+AU  - Gruber, John
+T2  - Daring Fireball
+DA  - 2004///
+PY  - 2004
+UR  - https://daringfireball.net/projects/markdown/syntax
+Y2  - 2018/10/01/12:05:24
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - GEN
+TI  - Pandoc User’s Guide
+AU  - MacFarlane, John
+DA  - 2018///
+PY  - 2018
+UR  - http://pandoc.org/MANUAL.html
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - JOUR
+TI  - A Small World of Citations? The Influence of Collaboration Networks on Citation Practices
+AU  - Wallace, Matthew L.
+AU  - Larivière, Vincent
+AU  - Gingras, Yves
+T2  - PLoS ONE
+A2  - Holme, Petter
+DA  - 2012/03/07/
+PY  - 2012
+DO  - 10.1371/journal.pone.0033339
+DP  - Crossref
+VL  - 7
+IS  - 3
+SP  - e33339
+LA  - en
+SN  - 1932-6203
+ST  - A Small World of Citations?
+UR  - http://dx.plos.org/10.1371/journal.pone.0033339
+Y2  - 2018/10/01/12:12:39
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - ELEC
+TI  - pandoc-csl-testing: Scripts and Howtos about using different CSL (Citation Style Language) files with pandoc
+AU  - Pfeifle, Kurt
+T2  - KurtPfeifle [GitHub]
+DA  - 2017/11/09/T13:33:01Z
+PY  - 2017
+ST  - pandoc-csl-testing
+UR  - https://github.com/KurtPfeifle/pandoc-csl-testing
+Y2  - 2017/12/18/08:25:46
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - BLOG
+TI  - My workflow for transforming academic Markdown into beautiful Word documents
+AU  - Kabo, Raphael
+T2  - Raphael Kabo
+DA  - 2017/05/11/
+PY  - 2017
+UR  - http://raphaelkabo.com/blog/posts/markdown-to-word
+Y2  - 2017/10/23/08:27:06
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - BLOG
+TI  - En finir avec Word ! Pour une analyse des enjeux relatifs aux traitements de texte et à leur utilisation
+AU  - Dehut, Julien
+T2  - L'Atelier des Savoirs
+AB  - Le titre de ce billet aurait pu être formé autour d’une expression célèbre attribuée à Caton l’ancien : delenda carthago[1], il faut détruire Carthage. Citation dont on trouve notamment un écho chez Plutarque[2] qui relate...
+DA  - 2018/01/23/
+PY  - 2018
+LA  - fr-FR
+UR  - https://eriac.hypotheses.org/80
+Y2  - 2018/05/28/10:44:46
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - JOUR
+TI  - Sustainable Authorship in Plain Text using Pandoc and Markdown
+AU  - Tenen, Dennis
+AU  - Wythoff, Grant
+T2  - Programming Historian
+DA  - 2014/03/19/
+PY  - 2014
+DP  - programminghistorian.org
+UR  - https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
+Y2  - 2017/10/17/09:38:01
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - ELEC
+TI  - Markdown Reference - Help
+AU  - CommonMark
+T2  - CommonMark
+UR  - http://commonmark.org/help/
+Y2  - 2018/06/22/06:49:52
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - ELEC
+TI  - Writing at the Command Line
+AU  - Zimmerman, Jake
+T2  - Jake Zimmerman
+DA  - 2016/11/19/
+PY  - 2016
+UR  - https://jez.io/talks/writing-at-the-command-line/
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - ELEC
+TI  - Mettre en forme un document Markdown en PDF
+AU  - Chibois, Jonathan
+T2  - laspic
+DA  - 2018/02/26/
+PY  - 2018
+UR  - https://www.laspic.eu/compiler-et-mettre-en-forme-un-document-markdown-en-pdf
+Y2  - 2018/09/17/09:15:35
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - BOOK
+TI  - Python 3: apprendre à programmer en Python avec Pyzo et Jupyter Notebook
+AU  - Cordeau, Bob
+AU  - Pointal, Laurent
+AU  - Swinnen, Gérard
+CY  - Malakoff, France
+DA  - 2017///
+PY  - 2017
+DP  - Library Catalog - www.sudoc.abes.fr
+SP  - xv+236
+LA  - fr
+PB  - Dunod
+SN  - 978-2-10-076636-9
+ST  - Python 3
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - BLOG
+TI  - Sémantique et mise en forme : ouvrir la boîte de Pandoc ?
+AU  - Perret, Arthur
+T2  - Infologie
+AB  - Ce texte creuse le sillon amorcé dans un précédent billet sur les questions d’écriture scientifique. Il s’agit cette fois-ci de s’intéresser à la forme, en montrant combien il est délicat de la dissocier des...
+LA  - fr-FR
+M3  - Billet
+ST  - Sémantique et mise en forme
+UR  - https://infologie.hypotheses.org/516
+Y2  - 2018/12/05/07:25:29
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - ELEC
+TI  - Zotero hacks: unlimited synced storage and its smooth use with rmarkdown
+AU  - Kashnitsky, Ilya
+AB  - Here is a bit refreshed translation of my 2015 blog post. The post shows how to organize a personal academic library of unlimited size for free. This is a funny...
+DA  - 2019/03/15/
+PY  - 2019
+LA  - en
+ST  - Zotero hacks
+UR  - https://habr.com/en/post/443798/
+Y2  - 2019/03/21/07:01:45
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
+TY  - BLOG
+TI  - Wordless
+AU  - Perret, Arthur
+T2  - Arthur Perret
+DA  - 2019/04/12/
+PY  - 2019
+UR  - https://arthurperret.fr/2019/04/12/wordless/
+KW  - zfrancophone_markdown
+KW  - #nosource
+ER  - 
+
