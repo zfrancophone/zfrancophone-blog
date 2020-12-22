@@ -10,7 +10,7 @@ Les resources citées dans les articles sont disponibles dans notre [bibliothèq
 Les fichiers produits dans le cadre de la participation à des événements sont disponibles dans [l'entrepôt zfrancophone-evenements](https://github.com/zfrancophone/zfrancophone-evenements).
 
 ## Billet bibliographies réutilisables (décembre 2020)
-* [Le billet](https://zotero.hypotheses.org/3501)
+* [Le billet](https://zotero.hypotheses.org/3503)
 * [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2020-12-bibliogr-reutilisables)
 * [Les ressources citées](https://www.zotero.org/groups/2233096/zfrancophone/collections/XY2W8LPL)
 
