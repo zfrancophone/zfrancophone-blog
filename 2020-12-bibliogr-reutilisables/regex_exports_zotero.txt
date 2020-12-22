@@ -1,0 +1,45 @@
+# Expressions régulières pour nettoyer des fichiers d'export de Zotero : supprimer les marqueurs et les liens vers les fichiers joints dans des fichiers Zotero RDF, RIS et BibTex
+
+## Zotero RDF
+
+\n\s*<dc:subject>.*<\/dc:subject>
+
+-> supprime tous les marqueurs
+
+\n\s*<z:Attachment rdf:about=".*">[\s\S]*?<\/z:Attachment>
+
+-> supprime tous les liens vers les fichiers joints
+
+
+## RIS
+
+\nKW  - .*
+
+-> supprime tous les marqueurs
+
+\nL2  - .*
+
+-> supprime tous les liens vers les fichiers joints
+
+Vous pouvez combiner les 2 commandes ci-dessus pour tout supprimer en une seule fois:
+
+\n(KW|L2)  - .*
+
+-> supprime tous les marqueurs et tous les liens vers les fichiers joints
+
+
+## BibTeX 
+
+/!\ Ne fonctionnent pas pour le format Better BibTeX
+
+,?\n\s*keywords = \{.*\}
+
+-> supprime tous les marqueurs
+
+,?\n\s*file = \{.*\}
+
+-> supprime tous les liens vers fichiers
+
+(?:\h*\n){2,}
+
+-> supprime toutes les lignes vides
