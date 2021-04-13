@@ -9,6 +9,13 @@ Les resources citées dans les articles sont disponibles dans notre [bibliothèq
 
 Les fichiers produits dans le cadre de la participation à des événements sont disponibles dans [l'entrepôt zfrancophone-evenements](https://github.com/zfrancophone/zfrancophone-evenements).
 
+
+## Billet bibliographies commentées et annotées (mai 2021)
+* [Le billet](https://zotero.hypotheses.org/3503) ⚠️ à maj
+* [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2021-05-bibliogr-annotees)
+* [Les ressources citées](http://zotero.org/groups/2233096/collections/JAG7A4A2)
+
+
 ## Billet bibliographies réutilisables (décembre 2020)
 * [Le billet](https://zotero.hypotheses.org/3503)
 * [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2020-12-bibliogr-reutilisables)
