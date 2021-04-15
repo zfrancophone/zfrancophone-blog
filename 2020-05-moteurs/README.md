@@ -2,7 +2,7 @@
 
 ## Comment utiliser ces fichiers?
 
-:inbox_tray:  Enregistrez le fichier de votre choix sur votre ordinateur et renommez-le en `engines.json`.
+:inbox_tray:  Téléchargez le fichier de votre choix ci-dessous (en faisant un clic droit sur le lien et en choisissant "Enregistrer le lien sous…"). Renommez-le ensuite en `engines.json`.
 
 :computer_mouse:  Copiez-le dans le répertoire `locate` de votre répertoire de données Zotero, en remplacement du fichier existant.
 
@@ -13,7 +13,7 @@
 
 ### Suisse romande
 
-[Fichier engines_CH-fr.json](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2020-05-moteurs/engines_CH-fr.json)
+[Fichier engines_CH-fr.json](https://raw.githubusercontent.com/zfrancophone/zfrancophone-blog/master/2020-05-moteurs/engines_CH-fr.json)
 
 Moteurs de recherche inclus
 * CrossRef
@@ -28,7 +28,7 @@ Moteurs de recherche inclus
 
 ### France - SHS
 
-[Fichier engines_FR-shs.json](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2020-05-moteurs/engines_FR-shs.json)
+[Fichier engines_FR-shs.json](https://raw.githubusercontent.com/zfrancophone/zfrancophone-blog/master/2020-05-moteurs/engines_FR-shs.json)
 
 Moteurs de recherche inclus
 
@@ -46,7 +46,7 @@ Moteurs de recherche inclus
 
 ### France - Sciences de la vie
 
-[Fichier engines_FR-svs.json](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2020-05-moteurs/engines_FR-svs.json)
+[Fichier engines_FR-svs.json](https://raw.githubusercontent.com/zfrancophone/zfrancophone-blog/master/2020-05-moteurs/engines_FR-svs.json)
 
 Moteurs de recherche inclus
 
