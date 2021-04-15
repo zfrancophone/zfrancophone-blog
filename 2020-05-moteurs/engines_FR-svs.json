@@ -47,7 +47,7 @@
 		"name": "Google",
 		"alias": "Google",
 		"icon": "https://www.google.com/favicon.ico",
-		"_urlTemplate": "https://www.google.com/#q={z:title}+{rft:aufirst?}+{rft:aulast?}",
+		"_urlTemplate": "https://www.google.com/search?q={z:title}+{rft:aufirst?}+{rft:aulast?}",
 		"description": "Google Search",
 		"hidden": false,
 		"_urlParams": [],
