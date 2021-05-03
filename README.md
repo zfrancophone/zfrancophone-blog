@@ -11,7 +11,7 @@ Les fichiers produits dans le cadre de la participation à des événements sont
 
 
 ## Billet bibliographies commentées et annotées (mai 2021)
-* [Le billet](https://zotero.hypotheses.org/3503) ⚠️ à maj
+* [Le billet](https://zotero.hypotheses.org/3556)
 * [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2021-05-bibliogr-annotees)
 * [Les ressources citées](http://zotero.org/groups/2233096/collections/JAG7A4A2)
 
