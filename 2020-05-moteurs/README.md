@@ -18,10 +18,8 @@
 Moteurs de recherche inclus
 * CrossRef
 * Google scholar
-* RERO
+* Swisscovery
 * Renouvaud
-* EPFL
-* Swissbib (ISBN)
 * PubMed (auteur-titre)
 * PubMed (DOI)
 * Unpaywall
