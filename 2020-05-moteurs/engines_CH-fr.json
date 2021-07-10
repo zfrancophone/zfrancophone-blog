@@ -46,9 +46,9 @@
 		"_name": "Renouvaud",
 		"_alias": "Renouvaud",
 		"_description": "Search Renouvaud",
-		"_icon": "https://www.bcu-lausanne.ch/favicon.ico",
+		"_icon": "https://www.bcu-lausanne.ch/wp-content/themes/bcu/assets/images/favicons/favicon.png",
 		"_hidden": false,
-		"_urlTemplate": "https://renouvaud.hosted.exlibrisgroup.com/openurl/41BCULIB/41BCULIB_VU1?{z:openURL}",
+		"_urlTemplate": "https://renouvaud1.primo.exlibrisgroup.com/openurl/41BCULAUSA_LIB/41BCULAUSA_LIB:VU2?{z:openURL}",
 		"_urlParams": [],
 		"_urlNamespaces": {
 			"rft": "info:ofi/fmt:kev:mtx:journal",
