@@ -57,20 +57,6 @@
 		}
 	},
 	{
-		"_name": "Swissbib ISBN",
-		"_alias": "Swissbib ISBN",
-		"_description": "Search Swissbib",
-		"_icon": "https://www.swissbib.ch/themes/sbvfrdsingle/images/favicon.ico",
-		"_hidden": false,
-		"_urlTemplate": "https://www.swissbib.ch/Search/Results?lookfor={z:ISBN}",
-		"_urlParams": [],
-		"_urlNamespaces": {
-			"rft": "info:ofi/fmt:kev:mtx:journal",
-			"z": "http://www.zotero.org/namespaces/openSearch#",
-			"": "http://a9.com/-/spec/opensearch/1.1/"
-		}
-	},
-	{
 		"_name": "PubMed",
 		"_alias": "PubMed",
 		"_description": "Search PubMed",
