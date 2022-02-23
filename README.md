@@ -9,6 +9,18 @@ Les resources citées dans les articles sont disponibles dans notre [bibliothèq
 
 Les fichiers produits dans le cadre de la participation à des événements sont disponibles dans [l'entrepôt zfrancophone-evenements](https://github.com/zfrancophone/zfrancophone-evenements).
 
+<!--à décommenter ## Billet Apporter de petites modifications à un style bibliographique (février 2022)
+* [Le billet](https://zotero.hypotheses.org/3746)
+
+-->
+
+## Billet bulletin de veille n°4 (décembre 2021)
+* [Le billet](https://zotero.hypotheses.org/3434)
+* [Les ressources citées](http://zotero.org/groups/2233096/collections/WZDPG7JC)
+
+## Billet bulletin de veille n°3 (juillet 2021)
+* [Le billet](https://zotero.hypotheses.org/3649)
+* [Les ressources citées](https://www.zotero.org/groups/2233096/zfrancophone/collections/UIZZ3RDX)
 
 ## Billet bibliographies commentées et annotées (mai 2021)
 * [Le billet](https://zotero.hypotheses.org/3556)
