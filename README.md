@@ -9,10 +9,9 @@ Les resources citées dans les articles sont disponibles dans notre [bibliothèq
 
 Les fichiers produits dans le cadre de la participation à des événements sont disponibles dans [l'entrepôt zfrancophone-evenements](https://github.com/zfrancophone/zfrancophone-evenements).
 
-<!--à décommenter ## Billet Apporter de petites modifications à un style bibliographique (février 2022)
+## Billet petites modifications à un style bibliographique (février 2022)
 * [Le billet](https://zotero.hypotheses.org/3746)
 
--->
 
 ## Billet bulletin de veille n°4 (décembre 2021)
 * [Le billet](https://zotero.hypotheses.org/3434)
@@ -42,6 +41,14 @@ Les fichiers produits dans le cadre de la participation à des événements sont
 * [Le billet](https://zotero.hypotheses.org/3388)
 * [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2020-05-moteurs)
 * [Les ressources citées](https://www.zotero.org/groups/2233096/zfrancophone/tags/zfrancophone_moteurs/library)
+
+## Billet optimiser l'organisation de sa bibliothèque (février 2020)
+* [Le billet](https://zotero.hypotheses.org/3298)
+* [Les ressources citées](https://www.zotero.org/groups/2233096/zfrancophone/items/collectionKey/KKMX498D)
+
+## Billet bulletin de veille n°1 (décembre 2019)
+* [Le billet](https://zotero.hypotheses.org/2939)
+* [Les ressources citées](https://www.zotero.org/groups/2233096/zfrancophone/items/collectionKey/JSXMHS9N)
 
 ## Billet ZotFile (septembre 2019)
 * [Le billet](https://zotero.hypotheses.org/2838)
