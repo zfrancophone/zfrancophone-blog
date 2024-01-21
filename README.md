@@ -5,7 +5,7 @@
 
 Vous trouverez ici les fichiers associés aux billets publiés sur le [blog Zotero francophone](https://zotero.hypotheses.org).
 
-Les resources citées dans les articles sont disponibles dans notre [bibliothèque de groupe Zotero](https://www.zotero.org/groups/2233096/zfrancophone).
+Les ressources citées dans les articles sont disponibles dans notre [bibliothèque de groupe Zotero](https://www.zotero.org/groups/2233096/zfrancophone).
 
 Les fichiers produits dans le cadre de la participation à des événements sont disponibles dans [l'entrepôt zfrancophone-evenements](https://github.com/zfrancophone/zfrancophone-evenements).
 
