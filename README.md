@@ -11,7 +11,7 @@ Les fichiers produits dans le cadre de la participation à des événements sont
 
 ## Billet bulletin de veille n°5 (février 2023)
 * [Le billet](https://zotero.hypotheses.org/4464)
-* [Les ressources citées]([http://zotero.org/groups/2233096/collections/WZDPG7JC](https://www.zotero.org/groups/2233096/zfrancophone/collections/X9UXUUP5)
+* [Les ressources citées]([http://zotero.org/groups/2233096/collections/WZDPG7JC](https://www.zotero.org/groups/2233096/zfrancophone/collections/X9UXUUP5))
 
 ## Billet petites modifications à un style bibliographique (février 2022)
 * [Le billet](https://zotero.hypotheses.org/3746)
