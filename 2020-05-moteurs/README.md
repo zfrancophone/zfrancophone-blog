@@ -41,6 +41,7 @@ Moteurs de recherche inclus
 * BnF - Bibliothèque nationale de France
 * ISIDORE, aide-moi à trouver ce qu'il/elle a publié.
 * ISIDORE, qu'as-tu sur l'auteur/auteure ?
+* ISIDORE, aurais-tu indexé le document avec le DOI ?
 
 ### France - Sciences de la vie
 
