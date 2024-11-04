@@ -113,33 +113,48 @@
     }
 },
 {
-	"name": "ISIDORE, aide-moi à trouver ce qu'il/elle a publié.",
-        		"alias": "ISIDORE",
-        		"icon": "https://isidore.science/favicon.ico",
-        		"_urlTemplate": "https://isidore.science/s?q=author:\"{rft:aulast?}, {rft:aufirst?}\"",
-        		"description": "ISIDORE est le moteur de recherche académique des SHS.",
-        		"hidden": false,
-        		"_urlParams": [],
-        		"_urlNamespaces": {
-        			"rft": "info:ofi/fmt:kev:mtx:journal",
-        			"z": "http://www.zotero.org/namespaces/openSearch#",
-        			"": "http://a9.com/-/spec/opensearch/1.1/"
-        		},
-        		"_iconSourceURI": "https://isidore.science/favicon.ico"
-        	},
-        	{
-        		"name": "ISIDORE, qu'as-tu sur l'auteur/auteure ?",
-        		"alias": "ISIDORE",
-        		"icon": "https://isidore.science/favicon.ico",
-        		"_urlTemplate": "https://isidore.science/s?q=\"{rft:aufirst?}+{rft:aulast?}\"",
-        		"description": "ISIDORE est le moteur de recherche académique des SHS.",
-        		"hidden": false,
-        		"_urlParams": [],
-        		"_urlNamespaces": {
-        			"rft": "info:ofi/fmt:kev:mtx:journal",
-        			"z": "http://www.zotero.org/namespaces/openSearch#",
-        			"": "http://a9.com/-/spec/opensearch/1.1/"
-        		},
-        		"_iconSourceURI": "https://isidore.science/favicon.ico"
-        	}
+  "name": "ISIDORE, aide-moi à trouver ce qu'il/elle a publié.",
+  "alias": "ISIDORE",
+  "icon": "https://isidore.science/favicon.ico",
+  "_urlTemplate": "https://isidore.science/s?q=author:\"{rft:aufirst?} {rft:aulast?}\"",
+  "description": "ISIDORE est le moteur de recherche académique des SHS.",
+  "hidden": false,
+  "_urlParams": [],
+  "_urlNamespaces": {
+    "rft": "info:ofi/fmt:kev:mtx:journal",
+    "z": "http://www.zotero.org/namespaces/openSearch#",
+    "": "http://a9.com/-/spec/opensearch/1.1/"
+  },
+  "_iconSourceURI": "https://isidore.science/favicon.ico"
+},
+{
+  "name": "ISIDORE, qu'as-tu sur l'auteur/auteure ?",
+  "alias": "ISIDORE",
+  "icon": "https://isidore.science/favicon.ico",
+  "_urlTemplate": "https://isidore.science/s?q=\"{rft:aufirst?}+{rft:aulast?}\"",
+  "description": "ISIDORE est le moteur de recherche académique des SHS.",
+  "hidden": false,
+  "_urlParams": [],
+  "_urlNamespaces": {
+    "rft": "info:ofi/fmt:kev:mtx:journal",
+    "z": "http://www.zotero.org/namespaces/openSearch#",
+    "": "http://a9.com/-/spec/opensearch/1.1/"
+  },
+  "_iconSourceURI": "https://isidore.science/favicon.ico"
+},
+{
+  "_name": "ISIDORE, aurais-tu indexé le document avec le DOI ?",
+  "_alias": "ISIDORE",
+  "_description": "ISIDORE est le moteur de recherche académique des SHS.",
+  "_icon": "https://isidore.science/favicon.ico",
+  "_hidden": false,
+  "_urlTemplate": "https://isidore.science/s?q=\"{z:DOI}\"",
+  "_urlParams": [],
+  "_urlNamespaces": {
+    "rft": "info:ofi/fmt:kev:mtx:journal",
+    "z": "http://www.zotero.org/namespaces/openSearch#",
+    "": "http://a9.com/-/spec/opensearch/1.1/"
+  },
+  "_iconSourceURI": "https://isidore.science/favicon.ico"
+	}
 ]
