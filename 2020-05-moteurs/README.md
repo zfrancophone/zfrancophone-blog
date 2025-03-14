@@ -4,7 +4,11 @@
 
 :inbox_tray:  Téléchargez le fichier de votre choix ci-dessous (en faisant un clic droit sur le lien et en choisissant "Enregistrer le lien sous…"). Renommez-le ensuite en `engines.json`.
 
-:computer_mouse:  Copiez-le dans le répertoire `locate` de votre répertoire de données Zotero, en remplacement du fichier existant.
+✋ Fermez Zotero.
+
+:computer_mouse:  Copiez votre nouveau fichier `engines.json` dans le répertoire `locate` de votre répertoire de données Zotero, en remplacement du fichier existant.
+
+👉 Redémarrez Zotero, sélectionnez un document et cliquez sur *Localiser* pour voir s'afficher les nouveaux moteurs de recherche que vous venez d'installer.
 
 :information_source: [Documentation Zotero : Le répertoire de données Zotero](https://www.zotero.org/support/zotero_data)
 
