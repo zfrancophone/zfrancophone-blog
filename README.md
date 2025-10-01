@@ -9,6 +9,12 @@ Les ressources citées dans les articles sont disponibles dans notre [bibliothè
 
 Les fichiers produits dans le cadre de la participation à des événements sont disponibles dans [l'entrepôt zfrancophone-evenements](https://github.com/zfrancophone/zfrancophone-evenements).
 
+## Billets Wikidata (octobre 2025)
+* [Le billet Enrichir sa collection de références Zotero grâce à l'extension Cita](https://zotero.hypotheses.org/5740)
+* [Le billet Contribuer à Wikidata avec Cita](https://zotero.hypotheses.org/5780)
+* [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2025-10_enrichir_wikidata)
+* [Les ressources citées](https://www.zotero.org/groups/2233096/zfrancophone/collections/VFEG7LJA)
+
 ## Billet bulletin de veille n°7 (juillet 2025)
 * [Le billet](https://zotero.hypotheses.org/5552)
 * [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2025-07-bulletin-veille-07)
@@ -37,7 +43,6 @@ Les fichiers produits dans le cadre de la participation à des événements sont
 * [Le billet](https://zotero.hypotheses.org/3556)
 * [Le matériel supplémentaire](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2021-05-bibliogr-annotees)
 * [Les ressources citées](http://zotero.org/groups/2233096/collections/JAG7A4A2)
-
 
 ## Billet bibliographies réutilisables (décembre 2020)
 * [Le billet](https://zotero.hypotheses.org/3503)
